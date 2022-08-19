@@ -24,6 +24,6 @@ Next I worked on the side bar div naming the class "benefit-all" to classify the
 After this I checked the website from my index.html and it looked like this:
 ![Picture of the finished product](assets\images\first-part.PNG)
 ![Picture of the finished product](assets\images\second-part.png)
-[Link to my github repository for challenge 1](https://github.com/FigWheyMutton/Horiseon-Social-Solution-Services)
+[Link to my github repository for challenge 1](https://figwheymutton.github.io/Horiseon/)
 
 
