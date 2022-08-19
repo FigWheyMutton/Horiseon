@@ -22,8 +22,8 @@ Then I went into the style.css and saw that the section with the pictures and pa
 For the main display I named the class "content" which would be all of the styles I wanted to add to this section. I then did another content class specifically for the images so that the images would still be held by the specification to have a max height of 200px.
 Next I worked on the side bar div naming the class "benefit-all" to classify the div section for all of the side bar. I had to make a separate class for the images to make sure that the images are held by their properties correctly.
 After this I checked the website from my index.html and it looked like this:
-![Picture of the finished product](assets\images\first-part.PNG)
-![Picture of the finished product](assets\images\second-part.png)
+![Picture of the finished product](./assets/images/first-part.PNG)
+![Picture of the finished product](./assets/images/second-part.PNG)
 [Link to my github repository for challenge 1](https://figwheymutton.github.io/Horiseon/)
 
 
