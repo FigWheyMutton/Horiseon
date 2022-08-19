@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# README for Horiseon Social Solutions
 # <Horiseon Social Solution Services>
 
 ## Description
